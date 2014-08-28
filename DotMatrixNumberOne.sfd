@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409230077
-ModificationTime: 1409230535
+ModificationTime: 1409257621
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -34,6 +34,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -45,7 +46,7 @@ FitToEm: 1
 WinInfo: 0 28 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 256 39
+BeginChars: 256 41
 
 StartChar: hyphen
 Encoding: 45 45 0
@@ -54,6 +55,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"!.4bHz
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:IV"!.4bHz
 EndImage
@@ -99,6 +103,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"z&-)\1
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:IV"z&-)\1
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -126,6 +133,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV&#S8+Dz
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:IV&#S8+Dz
 EndImage
@@ -194,6 +204,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI9N5Oj2uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI9N5Oj2uipY
 EndImage
@@ -319,6 +332,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:J1b&.fBa2uipY
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:J1b&.fBa2uipY
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -382,6 +398,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI";i7HHiO-H
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI";i7HHiO-H
 EndImage
@@ -497,6 +516,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#T*\42uipY
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N"M#T*\42uipY
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -605,6 +627,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:InB-qJ^k#QOi)
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:InB-qJ^k#QOi)
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -690,6 +715,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#4GQ\.;2uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N#4GQ\.;2uipY
 EndImage
@@ -800,6 +828,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:JU^5^5[b2uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:JU^5^5[b2uipY
 EndImage
@@ -913,6 +944,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#S8+$+92BA
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N"M#S8+$+92BA
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -998,6 +1032,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6o[S&2uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI6o[S&2uipY
 EndImage
@@ -1127,6 +1164,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6p(SXDu]k<
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI6p(SXDu]k<
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -1239,6 +1279,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:J1Z6puDj6i[2e
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:J1Z6puDj6i[2e
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -1344,6 +1387,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!M*fGQ7^D
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:Ml47!M*fGQ7^D
 EndImage
@@ -1461,6 +1507,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5X7S&2uipY
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI5X7S&2uipY
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -1560,6 +1609,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml46psF2GQ7^D
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:Ml46psF2GQ7^D
 EndImage
@@ -1663,6 +1715,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#45^5OZHiO-H
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N#45^5OZHiO-H
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -1759,6 +1814,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#45^5OZ5QCca
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N#45^5OZ5QCca
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -1838,6 +1896,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5X8"249,?]
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI5X8"249,?]
 EndImage
@@ -1945,6 +2006,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U7!qBj6i[2e
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U7!qBj6i[2e
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -2037,6 +2101,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KTj&.fBa2uipY
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KTj&.fBa2uipY
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -2104,6 +2171,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ib*"9\iq2uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:Ib*"9\iq2uipY
 EndImage
@@ -2180,6 +2250,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$Y:gd*j6i[2e
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$Y:gd*j6i[2e
 EndImage
@@ -2297,6 +2370,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KmM5X7S"HiO-H
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KmM5X7S"HiO-H
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -2364,6 +2440,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L%(<)c7R6i[2e
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L%(<)c7R6i[2e
 EndImage
@@ -2473,6 +2552,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$UA5l5j6i[2e
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$UA5l5j6i[2e
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -2576,6 +2658,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6psF22uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI6psF22uipY
 EndImage
@@ -2683,6 +2768,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!Ls^5QCca
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:Ml47!Ls^5QCca
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -2772,6 +2860,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6pt!F1]RLU
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI6pt!F1]RLU
 EndImage
@@ -2901,6 +2992,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!MO!6i[2e
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:Ml47!MO!6i[2e
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -3014,6 +3108,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5WAm72uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:KUI5WAm72uipY
 EndImage
@@ -3135,6 +3232,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"Y&.fBa&-)\1
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N"Y&.fBa&-)\1
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -3202,6 +3302,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6psF22uipY
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U6psF22uipY
 EndImage
@@ -3298,6 +3401,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6psEk&-)\1
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U6psEk&-)\1
 EndImage
@@ -3398,6 +3504,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6r[-%6i[2e
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U6r[-%6i[2e
 EndImage
@@ -3506,6 +3615,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U-kIdp6i[2e
+EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U-kIdp6i[2e
 EndImage
@@ -3631,6 +3743,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U-kHq$&-)\1
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:L$U-kHq$&-)\1
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -3719,6 +3834,9 @@ Flags: HW
 LayerCount: 2
 Back
 Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#S8+DHiO-H
+EndImage
+Image: 7 8 0 1 2 0 0 896 128 128 0
 p%A!.J:N"M#S8+DHiO-H
 EndImage
 Image: 7 8 0 1 2 0 0 896 128 128 0
@@ -3817,6 +3935,76 @@ SplineSet
  768 640 l 1
  640 640 l 1
 EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 39
+Width: 896
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:M$<#S8+P$ig8-
+EndImage
+Fore
+SplineSet
+512 0 m 1
+ 512 128 l 1
+ 512 256 l 1
+ 640 256 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+128 640 m 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 384 768 l 1
+ 384 640 l 1
+ 256 640 l 1
+ 128 640 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 40
+Width: 896
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"&-*7Az
+EndImage
 EndChar
 EndChars
 EndSplineFont
