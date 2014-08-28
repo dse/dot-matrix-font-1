@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409230212
-ModificationTime: 1409258854
+ModificationTime: 1409258747
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -88,7 +88,7 @@ FitToEm: 1
 WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65539 44
+BeginChars: 65539 43
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -194,9 +194,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:IV"zI!bnozz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:IV"zI!bnozz
-EndImage
 Fore
 SplineSet
 64 384 m 1,0,-1
@@ -239,9 +236,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:IV"zz!!!QAz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:IV"zz!!!QAz
-EndImage
 Fore
 SplineSet
 192 0 m 1,0,-1
@@ -261,9 +255,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:IV""9\u9&.fs,5X5;Lz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:IV""9\u9&.fs,5X5;Lz
 EndImage
@@ -326,9 +317,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6ps^B<)dC=6ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6ps^B<)dC=6ps!oz
 EndImage
@@ -450,9 +438,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:J1B0JF%L&.fBa&.gf\z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:J1B0JF%L&.fBa&.gf\z
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -502,9 +487,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6pq.\(`4A<5X9^Ez
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6pq.\(`4A<5X9^Ez
 EndImage
@@ -611,9 +593,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p"9\u9(`3AY6ps!oz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p"9\u9(`3AY6ps!oz
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -687,9 +666,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:In2(`4YL84\,U#RC\Az
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:In2(`4YL84\,U#RC\Az
 EndImage
@@ -784,9 +760,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p5X9R="9\i16ps!oz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p5X9R="9\i16ps!oz
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -861,9 +834,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:JUZ+<Wp7G^)VE6ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:JUZ+<Wp7G^)VE6ps!oz
 EndImage
@@ -971,9 +941,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p"9\u9&.fs,+<VdLz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p"9\u9&.fs,+<VdLz
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -1034,9 +1001,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6psF23&j;o6ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6psF23&j;o6ps!oz
 EndImage
@@ -1156,9 +1120,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6psF24?N`L#RGBgz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6psF24?N`L#RGBgz
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -1236,9 +1197,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:J1B-n%JO6puEM6psF2z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:J1B-n%JO6puEM6psF2z
 EndImage
@@ -1334,9 +1292,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:Mlh6psF2G^)VE6pu9Ez
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:Mlh6psF2G^)VE6pu9Ez
 EndImage
@@ -1450,9 +1405,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6ps:*5X7S"6ps!oz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6ps:*5X7S"6ps!oz
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -1524,9 +1476,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:Mlh6psF26psF26pu9Ez
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:Mlh6psF26psF26pu9Ez
 EndImage
@@ -1635,9 +1584,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p5X7S"G^)J=5X9^Ez
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p5X7S"G^)J=5X9^Ez
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -1718,9 +1664,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p5X7S"G^)J=5X7S"z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p5X7S"G^)J=5X7S"z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -1778,9 +1721,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6ps:*5X8":6ps."z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6ps:*5X8":6ps."z
 EndImage
@@ -1887,9 +1827,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6psF2I!e=M6psF2z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6psF2I!e=M6psF2z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -1980,9 +1917,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=&.fBa&.fBa&.gf\z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=&.fBa&.fBa&.gf\z
-EndImage
 Fore
 SplineSet
 128 0 m 1,0,-1
@@ -2034,9 +1968,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:Ib*"9\i1"9\i16ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:Ib*"9\i1"9\i16ps!oz
 EndImage
@@ -2109,9 +2040,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U84ZQR?slf-84Z-:z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U84ZQR?slf-84Z-:z
 EndImage
@@ -2229,9 +2157,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KmM5X7S"5X7S"5X9^Ez
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KmM5X7S"5X7S"5X9^Ez
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -2283,9 +2208,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$UCi!'M<)c7R6psF2z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$UCi!'M<)c7R6psF2z
 EndImage
@@ -2405,9 +2327,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6ptQr<)cOb6psF2z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6ptQr<)cOb6psF2z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -2493,9 +2412,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6psF26psF26ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6psF26psF26ps!oz
 EndImage
@@ -2606,9 +2522,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:Mlh6psF2G^)J=5X7S"z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:Mlh6psF2G^)J=5X7S"z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -2675,9 +2588,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6psF26pt!R84YQoz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6psF26pt!R84YQoz
 EndImage
@@ -2803,9 +2713,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:Mlh6psF2G^*%]84Z-:z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:Mlh6psF2G^*%]84Z-:z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -2890,9 +2797,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:KU=6ps:*3&h$D6ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:KU=6ps:*3&h$D6ps!oz
 EndImage
@@ -3004,9 +2908,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p&.fBa&.fBa&.fBaz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p&.fBa&.fBa&.fBaz
-EndImage
 Fore
 SplineSet
 192 0 m 1,0,-1
@@ -3058,9 +2959,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6psF26psF26ps!oz
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6psF26psF26ps!oz
 EndImage
@@ -3153,9 +3051,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6psF26psF2-n#W<z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6psF26psF2-n#W<z
 EndImage
@@ -3265,9 +3160,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6psF2<)cgrChuL-z
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6psF2<)cgrChuL-z
-EndImage
 Fore
 SplineSet
 64 0 m 1,0,-1
@@ -3357,9 +3249,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6prFO&.g6<6psF2z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6prFO&.g6<6psF2z
 EndImage
@@ -3481,9 +3370,6 @@ EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:L$U6prFO&.fBa&.fBaz
 EndImage
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:L$U6prFO&.fBa&.fBaz
-EndImage
 Fore
 SplineSet
 192 0 m 1,0,-1
@@ -3551,9 +3437,6 @@ Width: 448
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:N#p"9\u9&.fs,5X9^Ez
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:N#p"9\u9&.fs,5X9^Ez
 EndImage
@@ -3641,9 +3524,6 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:M$8A7PrO&.fs,9M>j'z
-EndImage
 Image: 7 16 0 1 2 0 0 896 64 64 0
 p&Fl=J:M$8A7PrO&.fs,9M>j'z
 EndImage
@@ -3847,33 +3727,5 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: colon
-Encoding: 58 58 43
-Width: 448
-VWidth: 0
-Flags: WO
-LayerCount: 2
-Back
-Image: 7 16 0 1 2 0 0 896 64 64 0
-p&Fl=J:IV"!!!QA!!!QAzz
-EndImage
-Fore
-SplineSet
-192 256 m 1,0,-1
- 192 320 l 1,1,-1
- 192 384 l 1,2,-1
- 256 384 l 1,3,-1
- 256 320 l 1,4,-1
- 256 256 l 1,5,-1
- 192 256 l 1,0,-1
-192 512 m 1,6,-1
- 192 576 l 1,7,-1
- 192 640 l 1,8,-1
- 256 640 l 1,9,-1
- 256 576 l 1,10,-1
- 256 512 l 1,11,-1
- 192 512 l 1,6,-1
-EndSplineSet
-EndChar
 EndChars
 EndSplineFont
