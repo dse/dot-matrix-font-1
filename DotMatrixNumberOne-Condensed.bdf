@@ -1,12 +1,12 @@
 STARTFONT 2.1
-FONT -dse-apple2-Medium-R-Condensed--16-160-75-75-C-35-ISO10646-1
+FONT -dse-dotmatrixnumberone-Medium-R-Condensed--16-160-75-75-C-35-ISO10646-1
 SIZE 16 75 75
 FONTBOUNDINGBOX 7 16 0 -2
 
 STARTPROPERTIES 25
 FONTNAME_REGISTRY ""
 FOUNDRY "dse"
-FAMILY_NAME "apple2"
+FAMILY_NAME "dotmatrixnumberone"
 WEIGHT_NAME "Medium"
 SLANT "R"
 SETWIDTH_NAME "Condensed"

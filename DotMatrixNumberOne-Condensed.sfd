@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: apple2Medium
-FullName: apple2 Medium
-FamilyName: apple2
+FontName: DotMatrixNumberOneMedium
+FullName: Dot Matrix #1 Medium
+FamilyName: Dot Matrix #1
 Weight: Medium
 Copyright: Public domain font.  Share and enjoy.
 Version: 001.000
@@ -77,7 +77,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "FontForge 2.0 : apple2 Medium : 28-8-2014" 
+LangName: 1033 "" "" "" "FontForge 2.0 : Dot Matrix #1 Medium : 28-8-2014" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
