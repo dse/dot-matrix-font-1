@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use POSIX qw(isspace);
+while (<>) {
+    my $line = $_;
+    s{\t}{' ' x ((7 - length($`) % 8) + 1)}ge;
+    if (!m{^\s*\|(.*)\|\s*$}) {
+	print $line;
+	next;
+    }
+    my $bits = $1;
+    my $numbytes = int((7 + length($1)) / 8);
+    my @bytes;
+    for (my $i = 0; $i < $numbytes; $i += 1) {
+	my $byte = 0;
+	for (my $j = 0; $j < 8; $j += 1) {
+	    $byte *= 2;
+	    if (!isspace(substr($bits, $i * 8 + $j, 1))) {
+		$byte += 1;
+	    }
+	}
+	printf("%02x", $byte);
+    }
+    print("\n");
+}
