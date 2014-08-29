@@ -1,0 +1,2302 @@
+SplineFontDB: 3.0
+FontName: DotMatrixNumberOne
+FullName: Dot Matrix #1
+FamilyName: Dot Matrix #1
+Weight: Medium
+Copyright: Public domain font.  Share and enjoy.
+UComments: "2014-8-28: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -131
+UnderlineWidth: 131
+Ascent: 896
+Descent: 128
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 63 1444778028 13852535]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1409262237
+ModificationTime: 1409278635
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: 8
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 16 16 7
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 42
+
+StartChar: percent
+Encoding: 37 37 0
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:M$<#S8+P$ig8-
+EndImage
+Fore
+SplineSet
+512 0 m 1
+ 512 128 l 1
+ 512 256 l 1
+ 640 256 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+128 640 m 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 384 768 l 1
+ 384 640 l 1
+ 256 640 l 1
+ 128 640 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 1
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"!.4bHz
+EndImage
+Fore
+SplineSet
+128 384 m 1
+ 128 512 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 128 384 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: period
+Encoding: 46 46 2
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"z&-)\1
+EndImage
+Fore
+SplineSet
+384 0 m 1
+ 384 128 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: slash
+Encoding: 47 47 3
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV&#S8+Dz
+EndImage
+Fore
+SplineSet
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: zero
+Encoding: 48 48 4
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI9N5Oj2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 512 512 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: one
+Encoding: 49 49 5
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:J1b&.fBa2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 384 256 l 1
+ 384 384 l 1
+ 384 512 l 1
+ 384 640 l 1
+ 256 640 l 1
+ 256 768 l 1
+ 384 768 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 512 768 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: two
+Encoding: 50 50 6
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI";i7HHiO-H
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+640 512 m 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 640 512 l 1
+128 640 m 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 128 640 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: three
+Encoding: 51 51 7
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#T*\42uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+640 640 m 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: four
+Encoding: 52 52 8
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:InB-qJ^k#QOi)
+EndImage
+Fore
+SplineSet
+512 0 m 1
+ 512 128 l 1
+ 512 256 l 1
+ 384 256 l 1
+ 256 256 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 384 384 l 1
+ 512 384 l 1
+ 512 512 l 1
+ 512 640 l 1
+ 384 640 l 1
+ 384 768 l 1
+ 512 768 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+256 512 m 1
+ 256 640 l 1
+ 384 640 l 1
+ 384 512 l 1
+ 256 512 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: five
+Encoding: 53 53 9
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#4GQ\.;2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+128 512 m 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 384 640 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+ 384 512 l 1
+ 256 512 l 1
+ 128 512 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: six
+Encoding: 54 54 10
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:JU^5^5[b2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+256 640 m 1
+ 256 768 l 1
+ 384 768 l 1
+ 384 640 l 1
+ 256 640 l 1
+384 768 m 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: seven
+Encoding: 55 55 11
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#S8+$+92BA
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 256 256 l 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 384 0 l 1
+ 256 0 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+640 640 m 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: eight
+Encoding: 56 56 12
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6o[S&2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+256 384 m 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+128 512 m 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 128 512 l 1
+640 512 m 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 640 512 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: nine
+Encoding: 57 57 13
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6p(SXDu]k<
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+512 128 m 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 512 128 l 1
+640 256 m 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 640 256 l 1
+128 512 m 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 128 512 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: colon
+Encoding: 58 58 14
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:IV"&-*7Az
+EndImage
+Fore
+SplineSet
+384 256 m 1
+ 384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 384 256 l 1
+384 512 m 1
+ 384 640 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 384 512 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 15
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:J1Z6puDj6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 384 384 l 1
+ 512 384 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 512 256 l 1
+ 384 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+256 640 m 1
+ 256 768 l 1
+ 384 768 l 1
+ 384 640 l 1
+ 256 640 l 1
+512 640 m 1
+ 512 768 l 1
+ 640 768 l 1
+ 640 640 l 1
+ 512 640 l 1
+384 768 m 1
+ 384 896 l 1
+ 512 896 l 1
+ 512 768 l 1
+ 384 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: B
+Encoding: 66 66 16
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!M*fGQ7^D
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+640 512 m 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 640 512 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: C
+Encoding: 67 67 17
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5X7S&2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: D
+Encoding: 68 68 18
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml46psF2GQ7^D
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: E
+Encoding: 69 69 19
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#45^5OZHiO-H
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: F
+Encoding: 70 70 20
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N#45^5OZ5QCca
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: G
+Encoding: 71 71 21
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5X8"249,?]
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 512 256 l 1
+ 512 384 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: H
+Encoding: 72 72 22
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U7!qBj6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: I
+Encoding: 73 73 23
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KTj&.fBa2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 384 256 l 1
+ 384 384 l 1
+ 384 512 l 1
+ 384 640 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: J
+Encoding: 74 74 24
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ib*"9\iq2uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: K
+Encoding: 75 75 25
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$Y:gd*j6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+512 128 m 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 512 128 l 1
+384 256 m 1
+ 384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 384 256 l 1
+384 512 m 1
+ 384 640 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 384 512 l 1
+512 640 m 1
+ 512 768 l 1
+ 640 768 l 1
+ 640 640 l 1
+ 512 640 l 1
+640 768 m 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: L
+Encoding: 76 76 26
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KmM5X7S"HiO-H
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: M
+Encoding: 77 77 27
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L%(<)c7R6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 384 768 l 1
+ 384 640 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 512 640 l 1
+ 512 768 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+384 384 m 1
+ 384 512 l 1
+ 384 640 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: N
+Encoding: 78 78 28
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$UA5l5j6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 384 640 l 1
+ 384 512 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 640 256 l 1
+ 512 256 l 1
+ 512 384 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: O
+Encoding: 79 79 29
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6psF22uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: P
+Encoding: 80 80 30
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!Ls^5QCca
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 512 m 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 640 512 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: Q
+Encoding: 81 81 31
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI6pt!F1]RLU
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+512 128 m 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 512 128 l 1
+384 256 m 1
+ 384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 384 256 l 1
+640 256 m 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 640 256 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: R
+Encoding: 82 82 32
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:Ml47!MO!6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 384 256 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+512 128 m 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 512 128 l 1
+640 512 m 1
+ 640 640 l 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 640 512 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: S
+Encoding: 83 83 33
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:KUI5WAm72uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+256 384 m 1
+ 256 512 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 384 384 l 1
+ 256 384 l 1
+128 512 m 1
+ 128 640 l 1
+ 128 768 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 128 512 l 1
+640 640 m 1
+ 640 768 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+256 768 m 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: T
+Encoding: 84 84 34
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"Y&.fBa&-)\1
+EndImage
+Fore
+SplineSet
+384 0 m 1
+ 384 128 l 1
+ 384 256 l 1
+ 384 384 l 1
+ 384 512 l 1
+ 384 640 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 640 768 l 1
+ 512 768 l 1
+ 512 640 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: U
+Encoding: 85 85 35
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6psF22uipY
+EndImage
+Fore
+SplineSet
+256 0 m 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+128 128 m 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 128 128 l 1
+640 128 m 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 640 128 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: V
+Encoding: 86 86 36
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6psEk&-)\1
+EndImage
+Fore
+SplineSet
+384 0 m 1
+ 384 128 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+256 128 m 1
+ 256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 256 128 l 1
+512 128 m 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
+ 512 128 l 1
+128 256 m 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 128 256 l 1
+640 256 m 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 640 256 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: W
+Encoding: 87 87 37
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U6r[-%6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 128 384 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 256 384 l 1
+ 256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 512 128 l 1
+ 512 256 l 1
+ 640 256 l 1
+ 640 384 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+384 256 m 1
+ 384 384 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 384 256 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: X
+Encoding: 88 88 38
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U-kIdp6i[2e
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 128 0 l 1
+640 0 m 1
+ 640 128 l 1
+ 640 256 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+512 256 m 1
+ 512 384 l 1
+ 640 384 l 1
+ 640 256 l 1
+ 512 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+256 512 m 1
+ 256 640 l 1
+ 384 640 l 1
+ 384 512 l 1
+ 256 512 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+128 640 m 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 128 640 l 1
+640 640 m 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: Y
+Encoding: 89 89 39
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:L$U-kHq$&-)\1
+EndImage
+Fore
+SplineSet
+384 0 m 1
+ 384 128 l 1
+ 384 256 l 1
+ 384 384 l 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 512 256 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 384 0 l 1
+256 512 m 1
+ 256 640 l 1
+ 384 640 l 1
+ 384 512 l 1
+ 256 512 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+128 640 m 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 256 768 l 1
+ 256 640 l 1
+ 128 640 l 1
+640 640 m 1
+ 640 768 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: Z
+Encoding: 90 90 40
+Width: 896
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Image: 7 8 0 1 2 0 0 896 128 128 0
+p&Fl=J:N"M#S8+DHiO-H
+EndImage
+Fore
+SplineSet
+128 0 m 1
+ 128 128 l 1
+ 128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
+ 384 128 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 256 0 l 1
+ 128 0 l 1
+256 256 m 1
+ 256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 256 256 l 1
+384 384 m 1
+ 384 512 l 1
+ 512 512 l 1
+ 512 384 l 1
+ 384 384 l 1
+512 512 m 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 512 512 l 1
+640 640 m 1
+ 640 768 l 1
+ 512 768 l 1
+ 384 768 l 1
+ 256 768 l 1
+ 128 768 l 1
+ 128 896 l 1
+ 256 896 l 1
+ 384 896 l 1
+ 512 896 l 1
+ 640 896 l 1
+ 768 896 l 1
+ 768 768 l 1
+ 768 640 l 1
+ 640 640 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: space
+Encoding: 32 32 41
+Width: 896
+VWidth: 0
+Flags: WO
+LayerCount: 2
+EndChar
+EndChars
+EndSplineFont
