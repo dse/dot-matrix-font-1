@@ -1,0 +1,77 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+my $width_mult = 3;
+my $height_mult = 4;
+
+my $dwidth;			# per char.
+
+while (<>) {
+    if (m{^ \s* FONT \s+
+	  -([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)
+	  -([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)-([^-]*)}xi) {
+	my ($foundry, $family, $weight, $slant, $width, $style, $pixel, $point, $res_x, $res_y, $spacing, $avgwidth, $registry, $encoding) = ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14);
+	$pixel *= $height_mult;
+	$point *= $height_mult;
+	if (lc($weight) eq "medium") {
+	    $weight = "semicondensed";
+	    $avgwidth = int($avgwidth * $width_mult / $height_mult + 0.5);
+	}
+	print("FONT -${foundry}-${family}-${weight}-${slant}-${width}-${style}-${pixel}-${point}-${res_x}-${res_y}-${spacing}-${avgwidth}-${registry}-${encoding}\n");
+    }
+    elsif (s{^( \s* size \s+ )(-?\d+)}{$1 . ($2 * $height_mult)}exi) {
+	print;
+    }
+    elsif (s{^( \s* pixel_size \s+ )(-?\d+)}{$1 . ($2 * $height_mult)}exi) {
+	print;
+    }
+    elsif (s{^( \s* average_width \s+ )(-?\d+)}{$1 . int($2 * $width_mult / $height_mult + 0.5)}exi) {
+	print;
+    }
+    elsif (s{^( \s* (?:cap|x)_height \s+ )(-?\d+)}{$1 . ($2 * $height_mult)}exi) {
+	print;
+    }
+    elsif (s{^( \s* font_(?:descent|ascent) \s+ )(-?\d+)}{$1 . ($2 * $height_mult)}exi) {
+	print;
+    }
+    elsif (s{^( \s* quad_width \s+ )(-?\d+)}{$1 . ($2 * $width_mult)}exi) {
+	print;
+    }
+    elsif (s{^( \s* swidth \s+ )(-?\d+)}{$1 . int($2 * $width_mult / $height_mult + 0.5)}exi) {
+	print;
+    }
+    elsif (s{^( \s* dwidth \s+ )(-?\d+)}{$1 . ($2 * $width_mult)}exi) {
+	$dwidth = $2;
+	print;
+    }
+    elsif (s{^ \s* bbx \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+)}
+	    {sprintf("BBX %d %d %d %d", $1 * $width_mult, $2 * $height_mult, $3 * $width_mult, $4 * $height_mult)}exi) {
+	print;
+    }
+    elsif (m{^\s*bitmap\b}xi) {
+	print;
+	while (<>) {
+	    if (m{^\s*endchar\b}xi) {
+		print;
+		last;
+	    }
+	    chomp();
+	    s{\r}{}g;
+
+	    my $bits = unpack("B" . $dwidth, pack("H" . length($_), $_));
+
+	    my @bits = split('', $bits);
+	    $bits = join("", map { $_ . $_ . "0" } @bits);
+	    $bits = substr($bits, 0, $dwidth * $width_mult);
+
+	    foreach (1 .. $height_mult - 1) {
+		print("$bits\n");
+	    }
+	    print(("0" x length($bits)), "\n");
+	}
+    }
+    else {
+	print;
+    }
+}
