@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use POSIX qw(isspace);
+my $dwidth;
+while (<>) {
+    if (m{^( \s* dwidth \s+ )(-?\d+)}xi) {
+	$dwidth = $2;
+	print;
+    }
+    elsif (m{^bitmap\b}i) {
+	print;
+	while (<>) {
+	    if (m{^endchar\b}i) {
+		print;
+		last;
+	    }
+	    chomp();
+	    s{\r}{}g;
+
+	    my $bits = $_;
+
+	    $bits = pack("H" . int($dwidth + 3 / 4), $bits);
+	    $bits = unpack("B" . $dwidth, $bits);
+
+	    $bits =~ s{0}{ }g;
+	    $bits =~ s{1}{#}g;
+
+	    print("|$bits|\n");
+	}
+    } else {
+	print;
+    }
+}
