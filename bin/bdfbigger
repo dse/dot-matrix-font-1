@@ -6,6 +6,7 @@ my $width_mult = 3;
 my $height_mult = 4;
 
 my $dwidth;			# per char.
+my $dest_dwidth;
 
 while (<>) {
     if (m{^ \s* FONT \s+
@@ -43,6 +44,7 @@ while (<>) {
     }
     elsif (s{^( \s* dwidth \s+ )(-?\d+)}{$1 . ($2 * $width_mult)}exi) {
 	$dwidth = $2;
+	$dest_dwidth = $dwidth * $width_mult;
 	print;
     }
     elsif (s{^ \s* bbx \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+)}
@@ -63,7 +65,9 @@ while (<>) {
 
 	    my @bits = split('', $bits);
 	    $bits = join("", map { $_ . $_ . "0" } @bits);
-	    $bits = substr($bits, 0, $dwidth * $width_mult);
+	    $bits = substr($bits, 0, $dest_dwidth);
+	    $bits = pack(("B" . $dest_dwidth), $bits);
+	    $bits = unpack("H" . int(($dest_dwidth + 3) / 4), $bits);
 
 	    foreach (1 .. $height_mult - 1) {
 		print("$bits\n");
