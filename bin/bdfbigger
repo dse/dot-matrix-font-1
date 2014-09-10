@@ -68,7 +68,7 @@ while (<>) {
 	    my $bits = pack("H" . length($_), $_);
 	    $bits = unpack("B" . $dwidth, $bits);
 	    my @bits = split('', $bits);
-	    $bits = join("", map { $_ . $_ . "0" } @bits);
+	    $bits = join("", map { $_ . $_ . $_ } @bits);
 	    $bits = substr($bits, 0, $dest_dwidth);
 	    $bits = pack(("B" . $dest_dwidth), $bits);
 	    $bits = unpack("H" . int(($dest_dwidth + 3) / 4), $bits);
