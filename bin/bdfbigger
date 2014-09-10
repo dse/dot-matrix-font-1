@@ -51,6 +51,10 @@ while (<>) {
 	    {sprintf("BBX %d %d %d %d", $1 * $width_mult, $2 * $height_mult, $3 * $width_mult, $4 * $height_mult)}exi) {
 	print;
     }
+    elsif (s{^ \s* fontboundingbox \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+) \s+ (-?\d+)}
+	    {sprintf("FONTBOUNDINGBOX %d %d %d %d", $1 * $width_mult, $2 * $height_mult, $3 * $width_mult, $4 * $height_mult)}exi) {
+	print;
+    }
     elsif (m{^\s*bitmap\b}xi) {
 	print;
 	while (<>) {
@@ -61,21 +65,28 @@ while (<>) {
 	    chomp();
 	    s{\r}{}g;
 
-	    my $bits = unpack("B" . $dwidth, pack("H" . length($_), $_));
-
+	    my $bits = pack("H" . length($_), $_);
+	    $bits = unpack("B" . $dwidth, $bits);
 	    my @bits = split('', $bits);
 	    $bits = join("", map { $_ . $_ . "0" } @bits);
 	    $bits = substr($bits, 0, $dest_dwidth);
 	    $bits = pack(("B" . $dest_dwidth), $bits);
 	    $bits = unpack("H" . int(($dest_dwidth + 3) / 4), $bits);
+	    my $length = length($bits);
+	    my $hex2 = hex($bits);
+	    $hex2 = $hex2 | $hex2 >> 1 | $hex2 << 1;
+	    my $bits2 = sprintf("%0" . $length . "X", $hex2);
 
-	    foreach (1 .. $height_mult - 1) {
-		print("$bits\n");
-	    }
 	    print(("0" x length($bits)), "\n");
+	    print("$bits\n");
+	    foreach (2 .. $height_mult - 2) {
+		print("$bits2\n");
+	    }
+	    print("$bits\n");
 	}
     }
     else {
 	print;
     }
 }
+
