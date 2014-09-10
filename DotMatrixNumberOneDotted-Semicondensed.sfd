@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409616509
-ModificationTime: 1410377276
+ModificationTime: 1410377444
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -42,7 +42,7 @@ NameList: Adobe Glyph List
 DisplaySize: 32
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 16 7
+WinInfo: 32 16 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 42
@@ -2470,7 +2470,7 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 14
-Width: 630
+Width: 270
 VWidth: 0
 Flags: HW
 LayerCount: 2
